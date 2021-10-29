@@ -1,0 +1,6 @@
+
+   
+a. Git fue diseñado por Linus Torvalds porque quería que sea compatible con todos los sistemas operativos.
+b. El dueño de Github es Microsoft, estos la compraron en el 2018. Porque es una forma mas de apostar 
+al código libre. Ademas es un paso más en la inclinación de Microsoft para enfocarse todo lo posible al desarrollo, haciendo una vez más hincapié en que el núcleo de la empresa lo forman los desarrolladores y nada más.
+c. Si, se puede usar GitHub Desktop, la cual es una interfaz gráfica.
