@@ -1,0 +1,18 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+
+Git fue creado en por Linus Torvalds pensado como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuario o 
+front end como Cogito o StGIT . Sin embargo, Git se ha convertido desde entonces en un sistema de control de versiones con funcionalidad plena..
+
+
+¿A quién pertenece actualmente Github y por qué?
+
+Como pertenecer, hace unos años fue comprada por Microsoft quien actualmente también la vende en un nivel empresarial. 
+Creo que lo escuché nombrar como servicio de la nube también.
+Por otro lado, al ser un open source es beneficia del desarrollo por parte de los usuarios quienes lo utilizan gratuitamente de forma pública. 
+
+
+¿Hay otra forma que no sea la terminal para trabajar con Github? En si, 
+Github es una plataforma y Git un software de control de las versiones. A mi entender se 
+tiene que poder instalar en otros lugares independientemente de pasar por Github.
+Por otro lado, en automatización se debería poder escribir con los comandos de git para correr dicho script. De todas formas, siempre se requiere
+una CLI que pueda interpretar los comandos de Git. 
