@@ -1,0 +1,15 @@
+1. ¿Quién inventó el sistema de control de versión Git y por qué?
+   2. ¿A quién pertenece actualmente Github y por qué?
+   3. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+
+
+
+a)Git es el sistema de control de versiones moderno más utilizado del mundo. Su proposito es llevar registro de los cambios en archivos de computadoras
+ incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de codigo, lo desarrolló Linus Torvalds, creador de linus en 2005.
+
+
+b)Github es la aplicación más importante de colaboración de proyectos Open Source, aun así su comprador y el dueño desde 2018 es Microsoft.
+
+
+C)El texto se puede preparar en editores comunes como word, pdf, pero si se tiene que pasar por una terminal de lineas de comandos.
