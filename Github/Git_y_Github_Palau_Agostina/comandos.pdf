@@ -1,0 +1,16 @@
+git clone = + token+URL para clonar directorio
+git add para agregar el archivo
+git status para ver el estado de los archivos
+git init para iniciar repositorio
+git commit -m para commitear archivos
+git pull origin main para actualizar los archivos clonados
+git push origin main para guardar, insertar archivos nuevos
+git branch para crear una nueva rama
+git checkout -b para crear y moverse a esa rama
+git branch -d para eliminar una rama
+mv para mover la un archivo hacia otra carpeta
+ls -a me permite todos los archivos, incluso los ocultos
+cd para posicionarme en una carpeta
+mkdir para crear carpetas
+rmdir para eliminar carpetas
+touch para crear archivos
