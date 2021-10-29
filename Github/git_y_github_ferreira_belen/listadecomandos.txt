@@ -1,0 +1,17 @@
+﻿Una cheatsheet (recordatorio) de los comandos más utilizados hasta el momento, con una explicación de la sintaxis de cada uno y qué hacen.
+Tomar como referencia la cheatsheet de la clase de la terminal
+
+
+git init = crea un repositorio 
+git add + nombre de archivo= agrega un archivo a nuestro repositorio
+git commit -m = nuestro archivo ya está comiteado.
+git add . = Agrega todos los archivos a nuestro repositorio 
+git clone + url = Nos permite copiar en nuestro repositorio local, los repositorios remotos de alguien más.
+git push origin main = Envía los archivos que tenemos en el repositorio local al repositorio remoto. aclarar a qué rama queremos mandarlo.
+git remote -v = Nos muestra si el repositorio remoto está asociado con el repositorio local.
+git pull origin main = Descarga las modificaciones de los archivos remotos
+git status = Nos permite ver los estados de nuestros archivos.
+git log= Nos muestra los cambios de nuestros proyectos por autor, fecha y hora, número y mensaje.
+git rm + nombre del archivo = Lo remueve 
+git checkout + nombre_rama = Nos permite moverlos a la rama con ese nombre.
+git remote add origin main + url = Sirve para conectar el repositorio local con el repositorio remoto.
