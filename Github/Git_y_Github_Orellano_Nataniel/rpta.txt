@@ -1,0 +1,6 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+b. ¿A quién pertenece actualmente Github y por qué?
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+A. Git es un es un sistema de control de versiones. Comenzó como un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+B. Lo compro Microsoft GitHub Inc. Microsoft por 7500millones de dolares
+C.Existen muchas formas de usar Git. Por un lado tenemos las herramientas originales de línea de comandos, y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades. La línea de comandos es el único lugar en donde puedes ejecutar todos los comandos de Git. La mayoría de interfaces gráficas de usuario solo implementan una parte de las características de Git por motivos de simplicidad.
