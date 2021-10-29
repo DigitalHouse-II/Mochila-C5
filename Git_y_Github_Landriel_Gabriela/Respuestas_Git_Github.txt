@@ -1,0 +1,15 @@
+a-El sistema de control de versiones Git fue creado por Linus Torvalds quien 
+buscaba un sistema distribuido que pudiera usar en forma semejante a BitKeeper, 
+pero ninguno de los sistemas bajo software libre disponibles cumplía con sus 
+requerimientos, especialmente en cuanto a desempeño. 
+El diseño de Git mantiene una enorme cantidad de código distribuida y gestionada 
+por mucha gente, que incide en numerosos detalles de rendimiento, y de la 
+necesidad de rapidez en una primera implementación.
+
+b-Actualmente Github pertenece a Microsoft quien la adquirió por considerarla
+la plataforma de desarrollo de software lider en todo el mundo tras el auge 
+imparable de usuarios adquiridos por ésta, quedando así relegado su repositorio
+CodePlex.
+
+c-Hay otra forma de trabajar en Github que no sea la terminal, como lo es una
+interfaz gráfica 
