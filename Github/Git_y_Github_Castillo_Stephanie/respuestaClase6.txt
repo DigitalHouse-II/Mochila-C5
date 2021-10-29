@@ -1,3 +1,5 @@
+________________________________________________________________________________________________________________________
+
 A) ¿Quien invento el sistema de control de versiones Git y por qué?
 
 Git fue diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento
@@ -17,3 +19,5 @@ por motivos de simplicidad. Si tú sabes cómo realizar algo desde la línea de 
 serás capaz de averiguar cómo hacer lo mismo desde una interfaz gráfica. Sin embargo, la relación opuesta 
 no es necesariamente cierta. Así mismo, la decisión de qué cliente gráfico utilizar depende totalmente de tu gusto, 
 pero todos los usuarios tendrán las herramientas de línea de comandos instaladas y disponibles.
+
+________________________________________________________________________________________________________________________
