@@ -1,0 +1,3 @@
+A. ¿Quién inventó el sistema de control de versión Git y por qué? Lo crea Linus Torvalds. La creó porque las distancias opciones que había en su momento(BitKeeper, CVS y Subversion) no cumplian con los requisitos que él necesitaba.
+B. ¿A quién pertenece actualmente GitHub y por qué? Pertenece a Microsoft. Compran GitHub porque Google adquirió la principal competencia de GitHub: GitLab.
+C. ¿Hay otra forma que no sea la terminal para trabajar con GitHub? No existe otra forma
