@@ -1,0 +1,16 @@
+COMANDO	EXPLICACIÓN
+git init	Crea repositorio local
+rm -rf .git	Borra el Git
+git status	Status de archivos 
+git log	Muestra los commits
+git add .	trackea todos los archivos  untracked 
+"git add ""nombre archivo"""	trackea solo archivo elegido
+git commit -m	crear commit
+"git clone ""URL"""	clonar repositorio remoto
+"git remote add origin ""url"""	conectar un repo local con uno remoto
+git remote -v	ver si me conecte bien al repo remoto
+"git push origin ""nombre de la rama"""	pushear un commit
+"git pull origin ""nombre de la rama"""	descargar actualizaciónes del repo local
+"git checkout -b ""nombre de rama"""	crear rama y posicionarse adentro
+"git branch ""nombre rama"""	SOLO crea una rama
+"git checkout ""nombre de rama"""	te mueve a la rama nombrada
