@@ -1,0 +1,29 @@
+Clonar un repositorio existente
+$ git clone ssh://usuario@domain.com/repo.git
+Crear un nuevo repositorio local
+$ git init
+Establecer usuario y email
+$ git config --global user.name "nombre de usuario"
+$ git config --global user.email "email"
+Verifica el estado de los archivos/directorios
+$ git status 
+Añadir un archivos
+$ git add nombre de archivos
+$ git add . (agrega todos los archivos del mismo nivel o que esten dentro de este)
+Commiear un archivo/directorios
+$ git commit -m "mensaje de commit"
+ver historial de actividad
+$ git log
+cambio de directorio
+$ git checkout nombre_archivo 
+ver los repositorios remotos (para saber a donde se envian los cambios o de donde los descargamos)
+git remote 
+git remote -vergit remote add origin urldelrepositorioremoto
+desvincula un repositorio remoto
+git remote rm 
+Actuliazar repositorio local segun el repositorio remoto
+git pull 
+Clonar un repositorio remoto existente
+git clone urldelrepositorioremoto
+crear nueva branch
+git checkout nombre nuevabranch
