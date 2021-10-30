@@ -1,0 +1,33 @@
+Crear nuevo repositorio local
+$ git init
+
+Configuración
+$ git config user.name “usuario”
+$ git config user.email “email”
+$ git config --global user.name “usuario” // Establece usuario para siempre
+$ git config --global user.email “email” // Establece email para siempre
+
+$ git add .	// Adiciona todos los archivos
+$ git add nombre_archivo // Adiciona un archivo
+$ git commit -m “mensaje” // Realiza commit
+$ git rm nombre_archivo // Elimina archivo
+$ git rm -r nombre_directorio // Elimina directorio y su contenido
+$ git status // Verifica estado de los archivos o directorios
+$ git log // Muestra historial de actividad
+$ git log --oneline // Muestra historial de commits de manera más corta
+
+Clonar repositorio remoto
+$ git clone https://token@URLrepositorioremoto
+
+Conectar repositorio local con remoto
+$ git remote add origin https://token@URLrepositorioremoto
+
+$ git remote -v // Verifica conexión con repositorio remoto
+$ git push origin nombre_rama // Manda cambios locales al repositorio remoto
+$ git pull origin nombre_rama // Actualiza repositorio local con cambios del repositorio remoto
+
+Branches
+$ git branch nombre_rama // Crea rama
+$ git checkout -b nombre_rama // Crea rama y me mueve a ella
+$ git branch // Muestra listado de ramas
+$ git checkout nombre_rama // Me mueve a esa rama
