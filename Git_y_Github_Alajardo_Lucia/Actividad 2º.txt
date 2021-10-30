@@ -1,0 +1,20 @@
+Pwd: muestra el nombre de la carpeta en la que se encuentra situado. 
+ls: Lista todos los archivos que hay dentro de una carpeta. ls .R: ver lo que hay dentro de una carpeta. ls -A: muestra carpetas ocultas.
+cd: entrar en una carpeta. cd mas dos puntos, salir de una carpeta., sube un nivel.
+touch: crear un archivo.
+mkdir: crear una carpeta.
+mv: renombrar y mover un archivo a otra carpeta. 
+rm: borra archivos. rmdir: borra carpetas. rm -r: borra carpeta con archivos.
+
+Git init: iniciar un repositorio local.
+Git config user.name “Lucia Alajardo”
+Git config user.email “lucia.alajardo@gmail.com
+Git add: guardar los archivos. Git add + . : para agregar todos los archivos.
+git status: nos permite ver el status de los archivos. 
+Git commit -m: “escribir un comentario entre comillas”
+Git remote add origin + (es el URL, que te da la pagina). Terminal. Indicarle al repositorio local con que repositorio remoto se tiene que sincronizar.
+Git remote -v: para verificar que lo de la nube esta en la computadora. 
+Git push origin master/main: subir el archivo de tu computadora a la nube. 
+Git clone:  permite crear una copia exacta en la computadora de todos los archivos existentes en un repositorio remoto. 
+Git pull origin main:  no descarga de nuevo, sino que lo actualiza al proyecto. 
+
