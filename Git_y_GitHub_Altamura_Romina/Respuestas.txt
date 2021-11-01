@@ -1,6 +1,6 @@
 Respuesta 1
 Fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux. 
-Git es un software escrito en C, con interfaz por lí­nea de comandos, disponible para Windows, MacOS X y GNU/Linux. 
+Git es un software escrito en C, con interfaz por lí­nea de comandos, disponible para Windows, MacOS X y GNU/Linux. .
 Al principio, Git se pensó como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuario o front end.
 ​Sin embargo, Git se ha convertido desde entonces en un sistema de control de versiones con funcionalidad plena.
 
