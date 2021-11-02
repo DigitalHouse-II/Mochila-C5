@@ -1,3 +1,0 @@
-Fue creado por Linus Torvalds y fue creado para ser utilizado en el desarrollo del kernel de Linux
-Actualmente pertenece a Microsoft y decidio comprarlo porque asegura que GitHub mantendrá su distintivo enfoque de anteponer a los desarrolladores y seguirá operando de forma independiente para ofrecer una plataforma abierta a todos los desarrolladores e industrias
-Existen muchas formas de usar Git. Por un lado tenemos las herramientas originales de línea de comandos, y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades
