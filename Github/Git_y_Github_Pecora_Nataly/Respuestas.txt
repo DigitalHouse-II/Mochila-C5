@@ -1,0 +1,3 @@
+a)  fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+b) Actualmente pertenece a Microsoft. Microsoft ha ido proporcionando más y más herramientas a desarrolladores, sobre todo con ese Visual Studio que lleva asistiendo a los programadores desde hace más de dos décadas.
+c) No ya que la terminal es necesaria para trabajar con los archivos
