@@ -1,0 +1,10 @@
+git add= Agrega todos los archivos
+git commit -m= Comitea los cambios hechos con un comentario entre ""
+git status= Seguimiento del estado de los archivos
+git log= Para ver el esquema de los archivos y carpetas
+git push origin <branch>=cuando queramos subir los cambios. Envia los cambios al repositorio remoto
+git pull origin <branch>=Para traer los cambios de esa rama utilizamos el git pull agregando desde donde
+queremos traer los cambios. Para actualizar el codigo en el repositorio local
+git branch <branch>= Crea una nueva rama llamada <branch>.
+git checkout nombre_rama= Para moverse de una rama a otra
+git branch -D <branch>= Fuerza la eliminación de la rama especificada
