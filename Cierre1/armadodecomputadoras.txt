@@ -1,0 +1,90 @@
+Armado de  computadoras
+
+Deberemos armar 
+computadoras por gama, donde cada una de estas  serán o compatibles con Intel o AMD.
+El tercer ordenador debe ser armado a libre criterio del estudiante.
+
+
+Gama baja
+Los equipos considerados de gama baja generalmente son utilizados por personas que necesitan pocos requisitos. Podríamos poner el ejemplo de una persona
+que trabaje en una oficina con planillas de ofimática (Excel, Word, etc.) generalmente no necesitan GPU.
+
+Gama baja - Intel
+Procesador Core i3 7100
+Placa madre asus h110m-a 
+Memoria principal Memoria RAM color Verde 8GB 1 Crucial CT8G4DFS8266
+Memoria secundaria Western Digital WD5000AAKX
+
+
+Gama baja - AMD
+Procesador Ryzen 3 2200g
+Placa madre ASUS PRIME A320M-K
+Memoria ram 8 GB DDR4 2666MHZ HYPEX X
+Memoria secundaria DISCO RIGIDO: 240GB SATA3 ADATA
+
+
+Gama baja 
+Procesador Procesador Intel Core i3 9100 4.2GHz Turbo 1151 9th Gen
+Placa madre Mother ASUS PRIME H310M-R R2.0 1151 OEM
+Memoria principal Memoria Crucial DDR4 4GB 2666MHz Value
+Memoria secundaria Disco Sólido SSD Adata 120GB SU650 520MB/s
+
+
+
+
+Gama media
+Los equipos considerados de gama media son utilizados por personas con requisitos más exigentes que la gama baja. Podríamos poner el ejemplo que se trabaje en desarrollo
+ con herramientas ligeras (VS code, Mysql, etc.) o también para gaming con exigencias medias, pueden llevar GPU.
+
+Gama media - Intel
+Procesador Procesador Intel Core i5 11400F S1200 11th Gen Rocket Lake OEM
+Placa madre Mother ASUS PRIME Z590-A ATX S1200 10th/11th Gen
+Memoria principal Memoria ram DDR4 8GB 1 Hyperx
+Memoria secundari Disco solido interno kingston SA400S37/480GB negro
+GPU GeForce GT 1030 2GD4 LP OC
+
+
+Gama media - AMD
+Procesador Ryzen de AMD - Ryzen 5 3600
+Placa madre  A320M Asrock
+Memoria principal Memoria RAM trident Z RGB(for AMD) 16GB 
+Memoria secundaria Disco Sólido Adata ultimate SU630 ASU630SS- 480GB 
+GPU Placa de Video AMD asrock rx 570 4GB
+
+
+Gama media 
+Procesador Intel. Core i5 10400 10th
+Placa madre Msi B560M-A PRO
+Memoria principal Memoria RAM fury DDR4 16GB HyperX
+Memoria secundaria Disco solido interno western digital WD 480GB 
+GPU Placa de Video MSI Geforce GTX 1050Ti OC 4Gb GDDR5
+
+
+
+Gama alta
+Los equipos considerados de gama alta son aquellos que requieren las mejores prestaciones del mercado. Son utilizados para tareas que requieren mucho procesamiento, 
+como minería de datos, big data, gaming, entre otras. Generalmente utilizan GPU.
+
+Gama alta - Intel
+Procesador Intel Core i7 10700KF 5.1GHz Turbo 1200 Comet Lake
+Placa Madre ASUS PRIME B460M-A R2.0
+Memoria principal Memoria Team DDR4 32GB 2666MHz T-Force Delta RGB White CL18
+Memoria secundaria Disco Rígido Seagate 1TB Barracuda 64MB SATA 6GB/s
+GPU Placa de Video Asrock Radeon RX 6800 XT 16GB GDDR6 TAICHI OC X
+
+Gama alta - AMD
+Procesador Amd Ryzen 7 3800xt
+Placa Madre Gigabyte Aorus x570 Master
+Memoria principal 32GB G.Skill Trident Z Royal DDR4 4000Mhz
+Memoria secundaria Samsung 860QVO 1T
+GPU Gigabyte RTX 3080
+
+Gama alta
+
+Procesador AMD Ryzen 7 5700G
+Placa Madre ASUS Prime B550M-A/CSM
+Memoria principal MEMORIA RAM 8GB DDR4
+Memoria secundaria Disco solido interno kingston 480GB
+GPU Zotac Nvidia GTX 1660 Ti 6GB
+
+
