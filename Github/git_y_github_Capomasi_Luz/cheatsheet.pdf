@@ -1,0 +1,23 @@
+Crear
+Clonar un repositorio existente
+$ git clone ssh://usuario@domain.com/repo.git
+Crear un nuevo repositorio local
+$ git init
+Git remote -v 
+Verifica que se haya subido correctamente 
+Vincular 
+Git config user.name
+Conectar con tu nombre de usuario de Git
+Git config user.email 
+Enlaza con tu email
+Git log.
+Vizualizas el historial
+Git commit -m "... "
+Realizas un commit
+Ramas
+Git branch <nombre de la nueva rama>
+Sirve crear una nueva rama
+Git checkout 
+Sirve para salir de la rama
+Git branch-d 
+Elimmina la rama sobre la que estas localizado
