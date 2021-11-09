@@ -48,7 +48,7 @@ Report df translation bugs to <https://translationproject.org/team/>
 Full documentation at: <https://www.gnu.org/software/coreutils/df>
 or available locally via: info '(coreutils) df invocation'
 
-<img src="resource/example_df.jpeg" alt="Example df">
+<img src="resource/example_df.jpg" alt="Example df">
 * MAN top
 
 NOMBRE
