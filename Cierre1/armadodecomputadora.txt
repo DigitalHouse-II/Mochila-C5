@@ -1,3 +1,5 @@
+
+
 Armado de  computadoras
 
 Deberemos armar 
@@ -31,7 +33,6 @@ Memoria secundaria Disco Sólido SSD Adata 120GB SU650 520MB/s
 
 
 
-
 Gama media
 Los equipos considerados de gama media son utilizados por personas con requisitos más exigentes que la gama baja. Podríamos poner el ejemplo que se trabaje en desarrollo
  con herramientas ligeras (VS code, Mysql, etc.) o también para gaming con exigencias medias, pueden llevar GPU.
@@ -60,7 +61,6 @@ Memoria secundaria Disco solido interno western digital WD 480GB
 GPU Placa de Video MSI Geforce GTX 1050Ti OC 4Gb GDDR5
 
 
-
 Gama alta
 Los equipos considerados de gama alta son aquellos que requieren las mejores prestaciones del mercado. Son utilizados para tareas que requieren mucho procesamiento, 
 como minería de datos, big data, gaming, entre otras. Generalmente utilizan GPU.
@@ -86,8 +86,4 @@ Placa Madre ASUS Prime B550M-A/CSM
 Memoria principal MEMORIA RAM 8GB DDR4
 Memoria secundaria Disco solido interno kingston 480GB
 GPU Zotac Nvidia GTX 1660 Ti 6GB
-
-
-trabajo del dia 4 de noviembre
-
 
