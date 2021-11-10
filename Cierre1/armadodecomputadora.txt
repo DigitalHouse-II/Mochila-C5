@@ -85,5 +85,5 @@ Procesador AMD Ryzen 7 5700G
 Placa Madre ASUS Prime B550M-A/CSM
 Memoria principal MEMORIA RAM 8GB DDR4
 Memoria secundaria Disco solido interno kingston 480GB
-GPU Zotac Nvidia GTX 1660 Ti 6GB
+GPU Zotac Nvidia GTX 1660 Ti 6GB.
 
