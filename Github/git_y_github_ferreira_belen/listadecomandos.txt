@@ -12,6 +12,6 @@ git remote -v = Nos muestra si el repositorio remoto está asociado con el repos
 git pull origin main = Descarga las modificaciones de los archivos remotos
 git status = Nos permite ver los estados de nuestros archivos.
 git log= Nos muestra los cambios de nuestros proyectos por autor, fecha y hora, número y mensaje.
-git rm + nombre del archivo = Lo remueve 
+git rm + nombre del archivo = Lo remueve.
 git checkout + nombre_rama = Nos permite moverlos a la rama con ese nombre.
 git remote add origin main + url = Sirve para conectar el repositorio local con el repositorio remoto.
