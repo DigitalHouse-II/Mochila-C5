@@ -1,0 +1,109 @@
+RAM = MEMORIA PRIMARIA
+
+-----------GAMA BAJA INTEL------------
+Mother ASUS PRIME H310M-R R2.0 1151 OEM -- MOTHER
+
+CORE I3 7100 -- PROCESADOR
+
+Memoria Adata DDR4 4GB 2400MHz Premier -- RAM
+
+SSD Adata 120GB SU650 520MB/s -- DISCO SOLIDO
+
+Intel HD Graphics 4000 -- GPU (integrada)
+
+-----------GAMA BAJA AMD--------------
+ASUS PRIME A520M-K AM4 -- MOTHER
+
+Ryzen 3 2200g -- PROCESADOR
+
+Memoria Adata DDR4 4GB 2400MHz Premier -- RAM
+
+SSD PNY 120GB CS900 Sata 3 2.5 -- DISCO SOLIDO
+
+----------GAMA BAJA PERSONALIZADA----------------
+Asrock H310CM-HDV Socket 1151 8va Gen -- MOTHER
+
+Intel Core i3 9100 4.2GHz Turbo 1151 9th Gen -- PROCESADOR
+
+Memoria Crucial DDR4 4GB 2666MHz Value -- RAM
+
+Disco Sólido SSD PNY 120GB CS900 Sata 3 2.5 -- DISCO SOLIDO
+
+----------GAMA MEDIA INTEL--------------
+ASUS PRIME H310M-R R2.0 1151 OEM -- MOTHER
+
+GeForce GT 1030 2GD4 LP OC -- GPU
+
+Intel Core i3 9100 4.2GHz Turbo 1151 9th Gen -- PROCESADOR
+
+Memoria Crucial DDR4 4GB 2666MHz Value -- RAM
+
+SSD Adata 256GB SU650SS 520MB/s -- DISCO SOLIDO
+
+----------GAMA MEDIA AMD-------------
+Mother Asrock A320M-HDV R4.03 Ryzen M-ATX -- MOTHER
+
+Procesador AMD Ryzen 5 1600 AF Zen+ 12nm AM4 Wraith Stealth Cooler -- PROCESADOR
+
+Memoria GeiL DDR4 8GB 3000MHz Orion Black -- RAM (X2) 16GB RAM
+
+Placa de Video Zotac GeForce GTX 1650 4GB GDDR6 AMP Core Twin Fan -- GPU
+
+Disco Sólido SSD M.2 ADATA XPG SX6000 Lite 128GB 1800MB/s NVMe PCI-E x4 -- DISCO SOLIDO
+
+-----------GAMA MEDIA PERSONALIZADA----------
+Mother Gigabyte H310M-H LGA 1151 8va gen -- MOTHER
+
+Procesador Intel Core i7 9700F 4.7GHz Turbo 1151 Coffee Lake -- PROCESADOR
+
+Memoria GeiL DDR4 8GB 3000MHz EVO POTENZA RED -- MEMORIA RAM
+
+Placa de Video Zotac GeForce GTX 1660 SUPER 6GB GDDR6 Twin Fan -- GPU
+
+Disco Sólido SSD Adata 256GB SU650SS 520MB/s -- DISCO SOLIDO
+
+--------- GAMA ALTA INTEL-----------
+Mother Gigabyte Z590 Vision D Rev 1.0 S1200 -- MOTHER
+
+Procesador Intel Core i7 10700KF 5.1GHz Turbo 1200 Comet Lake -- PROCESADOR
+
+Memoria OLOy DDR4 64GB (2x32GB) 3000MHz Warhawk Black RGB CL16 -- MEMORIA RAM
+
+Placa de Video ASUS GeForce RTX 3080 10GB GDDR6X TUF GAMING OC -- GPU 
+
+Disco Solido SSD M.2 Team 4TB Cardea Zero Z340 3400MB/s NVMe PCI-E x4 -- DISCO SOLIDO
+
+-------- GAMA ALTA AMD-------------
+Mother ASUS ROG X570 CROSSHAIR VIII AM4 DARK HERO -- MOTHER
+
+Procesador AMD Ryzen 9 5950X 4.9GHz Turbo AM4 -- PROCESADOR
+
+Memoria Team DDR4 64GB (2x32GB) 3200MHz T-Create -- MEMORIA RAM 
+
+Placa de Video ASUS GeForce RTX 3080 10GB GDDR6X TUF GAMING OC -- GPU
+
+Disco Solido SSD M.2 WD 2TB Black SN850 7000MB/s NVMe PCIe Gen4 -- DISCO SOLIDO
+
+--------- GAMA ALTA PERSONALIZADA--------------
+
+Mother ASUS ROG X570 CROSSHAIR VIII AM4 DARK HERO -- MOTHER
+
+Procesador AMD RYZEN 7 3800XT 4.7GHz Turbo -- PROCESADOR
+
+Memoria OLOy DDR4 64GB (2x32GB) Owl Black 3000MHz CL16 -- MEMORIA RAM
+
+Placa de Video Palit GeForce RTX 3070 8GB GDDR6 GamingPro -- GPU
+
+Disco Solido SSD M.2 ADATA 4TB XPG SX8100 3500MB/s NVMe PCI-E x4 -- DISCO SOLIDO
+
+
+
+
+
+
+
+
+
+
+
+
