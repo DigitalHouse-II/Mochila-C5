@@ -5,7 +5,7 @@
 
 ## Recrear la actividad de terminal pero desde la consola de comandos de la máquina virtual ubuntu. Cree tres carpetas donde cada una contenga tres archivos.
 
-<img src="img/DiagramaTree" alt="Diagrama de lo que mostro la terminal al ejecutar el comando">
+<img src="img/DiagramaTree.jpeg" alt="Diagrama de lo que mostro la terminal al ejecutar el comando">
 
 # Opcional: 
 
