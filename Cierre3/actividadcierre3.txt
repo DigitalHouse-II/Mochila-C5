@@ -1,0 +1,12 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?.
+Porque cada uno tiene un alcance y forma de comunicación diferente.
+
+¿Qué tipo de máquina virtual es virtualBox?. 
+Es una maquina de proceso, es menos ambiciosa que una de sistema. En vez de emular un PC por completo, ejecuta un proceso concreto, como una aplicación, en su entorno de ejecución.
+Las máquinas virtuales de proceso te permiten disfrutar de aplicaciones que se comportan de forma igual en plataformas tan distintas como Windows, Mac o Linux
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+Se pueden romper si todas las maquinas se encuentran conectadas a la misma direccion IP. "el virus gusano"
+
+
+Subir este archivo a la mochila del viajero.
