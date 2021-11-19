@@ -27,4 +27,11 @@
 
 * Sacar una captura de pantalla de los commits hechos:
 
+- git status
+- git add .
+- git commit -m "..."
+-  git push
+<img src="img/gitAdd_gitCommit.png" alt="Evidencia del comando git add, git commit y git commit">
+
+<img src="img/gitPush.png" alt="Evidencia del comando git push">
 
