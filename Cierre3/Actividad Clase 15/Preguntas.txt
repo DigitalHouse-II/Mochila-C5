@@ -1,0 +1,20 @@
+PREGUNTAS ACTIVIDAD CLASE 15 MAQUINAS VIRTUALES
+
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y 
+en otros no?
+
+Esto es debido a que todos los sistemas operativos funcionan con códigos o reglas diferentes 
+que le permite a un programador escribir un conjunto de ordenes, acciones consecutivas, 
+datos y algoritmos para, de esta forma, crear progrmas que controlen el comportamiento
+físico y lógico.
+
+¿Qué tipo de máquina virtuale es VirtualBox? 
+
+Es una máquina de sistemas ya que emula una computadora completa y nos permite ejecutar 
+un sistema operativo en su interior
+
+Si tengo más de una máquina virtual instalada, y uno se rompe, ¿Esto afecta a las demás? ¿Por qué?
+
+No, porque estas se encuentran aisladas unas de otras, lo cuál nos ermite realizar 
+diferentes acciones sin afectar a las demás.
+
