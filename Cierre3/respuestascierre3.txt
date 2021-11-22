@@ -1,0 +1,7 @@
+•	¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+Porque no todos los leguajes de programación son multiplataforma
+•	¿Qué tipo de máquina virtual es virtualBox?. 
+VirtualBox no es una máquina virtual es un software que permite crear máquinas virtuales por medio de el
+•	Si tengo más de una máquina virtual instalada, y una se 
+rompe, ¿esto afecta a las demás? ¿por qué?
+No, no afecta a las demás porque cada maquina virtual es una maquina independiente de la otra.
