@@ -1,0 +1,23 @@
+1. El SO tiene ciertas funcionalidades que solo el puede realizar, como crear ficheros,
+gestionar conexiones de red, etc. Estas funcionalidades estan protegidas por el SO y
+no pueden ejecutarse de manera directa a traves de un programa comun. Para acceder a
+estas funcionalidades, el programa debe pedirle permisos a el SO que sera quien las
+ejecute, este se encarga de gestionar y devolver los resultados de la ejecucion de 
+dichas funciones especiales. Estas peticiones se realizan mediante llamadas al 
+sistema (skycalls) y son cosas tan simples como crear un nuevo fichero o tan complejas
+como gestionar una conexion de red.
+
+Los wrappers son librerias estandar que añaden una capa de abstraccion e implementan
+por debajo de las llamadas al sistema. Por eso cuando compilamos codigo, el compilador 
+utilizara la libreria del SO en el que estamos trabajando. Para facilitar el uso de
+los programas se puede añadir una capa de abstraccion, por encima mediante lenguajes 
+interpretados y por debajo mediante el uso de MVs.
+
+2. VirtualBox es una MV de sistema, ya que es posible instalar sistemas operativos
+adicionales, conocidos como 'sistemas invitados' dentro de un SO 'anfitrion', cada 
+uno con su propio ambiente virtual. Soporta GNU/Linux, Mac, Genode, OS/2 Warp, 
+Windows y Solaris. Ofrece funcionalidades de escritorio remoto mediante RDP.
+
+3. No, porque cada MV es una maquina separada de las demas, a no ser que cree una MV
+dentro de otra MV y la primera se rompa, no estan relacionadas entre si.
+
