@@ -21,3 +21,4 @@ Windows y Solaris. Ofrece funcionalidades de escritorio remoto mediante RDP.
 3. No, porque cada MV es una maquina separada de las demas, a no ser que cree una MV
 dentro de otra MV y la primera se rompa, no estan relacionadas entre si.
 
+
