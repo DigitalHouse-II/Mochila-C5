@@ -1,0 +1,6 @@
+1) ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?.
+Los SOs tienen diferentes desafíos y para solucionar diferentes problemas se requieren herramientas que no son iguales.
+2) ¿Qué tipo de máquina virtual es virtualBox?.
+Sus VMs solo usan destinos isCSI directamente sin crear discos virtuales, mientras que ESi usa destinos iSCSI como almacenes de datos para almacenar archivos de discos virtuales de VM.
+3) Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+Las VMs son "Máquinas Virtuales" indpendientes entre sí y del equipo HOST. Pueden contener virus y no afectar al resto de las VMs ya que son independientes.
