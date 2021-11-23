@@ -1,0 +1,8 @@
+GIT
+
+Git init (crea repositorio)
+Git remote add *link* (crea repositorio en github)
+Git status (chequea estado de archivos)
+Git add * (agrega los archivos nuevos)
+Git commit -m  *mensaje*(escribe mensaje sobre los cambios realizados)
+Git push origin master (pushea los cambios al repo de github)
