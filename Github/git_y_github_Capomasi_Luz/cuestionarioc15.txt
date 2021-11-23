@@ -1,0 +1,7 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+Porque depende de su compatibilidad, si es multiplataforma o no.
+¿Qué tipo de máquina virtual es virtualBox?. 
+VB es del tipo sistema. 
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+No afecta a las demas porque las consolas funcionan como si fueran diferentes computadoras.
+Las capturas estan en el pdf ya que no pude agregar capturas en el txt. 
