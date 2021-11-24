@@ -1,0 +1,33 @@
+¿Que es un usuario root en Linux?
+El usuario root en Linux es el usuario que tiene acceso administrativo al sistema,tiene el control absoluto de todo lo que ocurre en ella accediendo
+a todas las funciones y realizando configuraciones, que por lo general, un usuario estándar no tiene o no podría. 
+
+¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+Debido a que Ubuntu es una versión de Linux, que es una versión específica de procesador de Unix (que estaba algo basada en Multics). Unix fue diseñado desde
+el principio como un sistema multitarea multiusuario, por lo que las contraseñas se usaron para proteger diferentes cuentas de usuario en la misma máquina. 
+Esto también incluía cuentas del sistema como root,que también tenían una contraseña para evitar que usuarios desconocidos causen daños al sistema, la contraseña 
+se crea despues de crear tu nombre de usuario.
+
+
+¿Cuáles son los procesos típicos de Linux?¿Cómo identificarlos?. 
+Podríamos definir a los procesos como programas que están corriendo en nuestro Sistema Operativo. Dependiendo de la forma en que corren estos programas
+en LINUX se los puede clasificar en tres categorías y estas son:
+
+-Procesos Normales:
+los procesos de tipo normal generalmente son los que corren en una terminal y corren a nombre de un usuario
+
+-Procesos Daemon:
+Los procesos de tipo Daemon corren a nombre de un usuario y no tienen salida directa por una terminal, es decir corren en 2º plano
+Generalmente los conocemos como servicios.
+
+-Procesos Zombie:
+un proceso zombie es un proceso que ha completado su ejecución pero aún tiene una entrada en la tabla de procesos. Se pueden deber a errores de programación, 
+estas pueden provocan lentitud ó inestabilidad en el sistema.
+
+Investigar y establecer una contraseña para el usuario root.
+Para cambiar la contraseña para el usuario root se deben seguir estos pasos:
+Abrir la Terminal (Control + Alt + T).
+Escribir "sudo su".
+Introducir tu clave actual.
+Escribir "passwd root" y ahi teclear tu nueva clave.
+Pulsar enter y cierrar la terminal.
