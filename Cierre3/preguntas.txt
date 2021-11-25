@@ -1,0 +1,17 @@
+¿Por qué un lenguaje de programación puede utilizarse en algunos sistemas operativos y en otros no?
+
+Porque los sistemas operativos tienen arquitecturas diferentes y por ende aveces no comprenden un lenguaje de programación que sí es compatible con otro SO. Para no tener estos errores de compatibilidad se usan maquinas virtuales.
+
+¿Qué tipo de maquina virtual es  VirtualBox?
+
+Virtualbox es una MV de sistema porque emula un ordenador completo.Es un software que puede hacerse pasar por otra computadora.
+
+Si tengo mas de una maquina virtual instalada, y una se rompe: ¿Esto afecta a las demás? ¿Por qué?
+
+No. Porque son independientes de la máquina anfitrión y entre ellas. Están fisicamente aisladas entre si.
+
+¿Si tengo más de una máquina virtual es Virtual Box?
+Si. Virtual Box es un software de virtualizacion para arquitecturas. En este puedo tener mas de una maquina virtual creada para otras artitecturas y no deja de ser virtual box.
+
+
+Subir este archivo a la mochila del viajero.
