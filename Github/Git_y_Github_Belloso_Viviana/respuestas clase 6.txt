@@ -1,0 +1,19 @@
+A) ¿Quien invento el sistema de control de versiones Git y por qué?
+
+Git fue diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento
+de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
+  Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar 
+el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+
+B) ¿A quien pertenece actualmente Github y por qué?
+
+Microsoft ha comprado GitHub por 7.500 millones de dólares.
+
+C) ¿Hay otra forma que no sea la terminal para trabajar con github?
+
+La línea de comandos es el único lugar en donde puedes ejecutar todos los comandos de Git - la 
+mayoría de interfaces gráficas de usuario solo implementan una parte de las características de Git
+por motivos de simplicidad. Si tú sabes cómo realizar algo desde la línea de comandos, seguramente 
+serás capaz de averiguar cómo hacer lo mismo desde una interfaz gráfica. Sin embargo, la relación opuesta 
+no es necesariamente cierta. Así mismo, la decisión de qué cliente gráfico utilizar depende totalmente de tu gusto, 
+pero todos los usuarios tendrán las herramientas de línea de comandos instaladas y disponibles.
