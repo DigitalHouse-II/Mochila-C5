@@ -1,0 +1,11 @@
+1)¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+
+2)¿Qué tipo de máquina virtual es virtualBox?. 
+
+3)Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+1)
+
+2) Es una maquina de procesos 
+
+3) No se va a romper ni se va a afectar. Porque el sistema operativo lo toma como si fuera una maquina fisica de forma independiente a cada una.
